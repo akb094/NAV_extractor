@@ -1,5 +1,4 @@
 # NAV_extractor
-test repo for internship assignment
 
 This is a simple shell script that helps you fetch and extract mutual fund data (like Scheme Name and Net Asset Value) from the official AMFI India website.
 
